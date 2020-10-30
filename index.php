@@ -1,19 +1,20 @@
 <html>
   <head>
-    <title>Hello world</title>
+    <title>ชนะพล ชื่นชูวิทย์ ชื่อเล่นก้อง</title>
   </head>
   <body>
-    <h1>My First Heading</h1>
-    <p>My First Paragraph</p>
+    <h1>ชอบดื่มชาไทย</h1>
+    <p>ชอบ Fox</p>
+    <img src="k1.jpg" />
     <img src="cat.jpg" />
     <br />
-    <a href="http://www.it.kmitl.ac.th">This is a Link</a>
+    <a href="https://shopee.co.th/">This is a Link</a>
 
-    <h2>The unordered list</h2>
+    <h2>เรื่องตลก</h2>
     <ul>
-      <li>Google</li>
-      <li>Yahoo</li>
-      <li>Amazon</li>
+      <li>อะไรบินได้</li>
+      <li>นกหรอ</li>
+      <li>ใช้</li>
     </ul>
   </body>
 </html>
