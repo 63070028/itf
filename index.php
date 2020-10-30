@@ -1,14 +1,15 @@
 <html>
   <head>
-    <title>ชนะพล ชื่นชูวิทย์ ชื่อเ ล่นก้อง</title>
+    <title>chanapon 63070028</title>
   </head>
   <body>
-    <h1>ชอบดื่มชาไทย</h1>
+    <h1>ชนะพล ชื่นชูวิทย์ ชื่อเล่นก้อง</h1>
+    <p>ชอบดื่มชาไทย</p>
     <p>ชอบ Fox</p>
     <img src="k1.jpg" />
     <img src="cat.jpg" />
     <br />
-    <a href="https://shopee.co.th/">This is a Link</a>
+    <a href="https://shopee.co.th/">Link ซื้อของ</a>
 
     <h2>เรื่องตลก</h2>
     <ul>
